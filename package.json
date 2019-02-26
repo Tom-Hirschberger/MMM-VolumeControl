@@ -1,0 +1,20 @@
+{
+  "name": "MMM-VolumeControl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "MMM-VolumeControl.js",
+  "devDependencies": {},
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Tom-Hirschberger/MMM-VolumeControl.git"
+  },
+  "author": "Thomas Hirschberger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tom-Hirschberger/MMM-VolumeControl/issues"
+  },
+  "homepage": "https://github.com/Tom-Hirschberger/MMM-VolumeControl/#readme"
+}
