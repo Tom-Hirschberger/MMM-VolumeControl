@@ -23,7 +23,7 @@ Module.register('MMM-VolumeControl', {
   },
 
   start: function () {
-    console.error(this.name + ' is started')
+    Log.info("Starting module: " + this.name);
     this.sendSocketNotification('CONFIG', this.config)
   },
 
