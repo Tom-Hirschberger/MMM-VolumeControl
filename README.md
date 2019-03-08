@@ -1,4 +1,6 @@
 # MMM-VolumeControl
+THIS MODULE WILL BE ARCHIVED. PLEASE USE https://github.com/eouia/MMM-Volume INSTEAD. IF SOMETHING IS MISSING I WILL TRY TO ADD IT TO THIS MODULE INSTEAD!
+
 MMM-VolumeControl is a module for the [MagicMirror](https://github.com/MichMich/MagicMirror) project by [Michael Teeuw](https://github.com/MichMich).
 
 This modules controls the volume of a configurable amixer channel based on received notifications; the volume can either be decremented/incremented based on a configurable stepping in percentage or it can be set to a fixed percent value; if necessary the command which controls the volume can be overriden in the configuration. the module shows an alert after each action which displays the current value; also a notification can be send to get the current value; after each action a notification "VOLUME_CURRENT" with the id and value in the payload will be send. 
